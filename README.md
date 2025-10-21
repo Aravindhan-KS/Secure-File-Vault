@@ -1,8 +1,3 @@
-Absolutely! Here's a **complete, single `README.md` file** combining all explanations, instructions, examples, notes, and commands for your CS3224 XV6 Secure File Vault project.
-
----
-
-
 # CS3224 XV6 Secure File Vault
 
 A **Secure File Vault** implemented as a user-level program in **XV6 (CS3224)**.  
