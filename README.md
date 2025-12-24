@@ -214,6 +214,6 @@ $ ls
 $ ls .vault
 ```
 
-✅ This confirms all features: encryption, decryption, logging, hidden vault, and password protection.
+This confirms all features: encryption, decryption, logging, hidden vault, and password protection.
 
 
